@@ -2,7 +2,7 @@
 
 [**View Usage Guide**](#usage-guide) *(small text)*
 
-### Downloading: Download and extract the Extention
+### Downloading: Download and extract the Extension
 
 So first go to releases and download the latest Zip File, then unzip it.
 
