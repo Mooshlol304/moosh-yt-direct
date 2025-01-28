@@ -26,7 +26,6 @@ Select the extension folder that you just unzipped, then click "Select Folder".
 
 You can use the extension on the following browsers:
 - [Google Chrome Extensions Page](chrome://extensions/)
-- [Opera Extensions Page](opera://extensions/)
 
 ---
 
