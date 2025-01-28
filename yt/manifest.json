@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "YT Redirector by Moosh",
+    "description": "type yt in the search box then click tab then space then enter- Moosh and other people with lazy fingers",
+    "version": "1.1",
+    "omnibox": {
+      "keyword": "yt"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  
