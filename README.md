@@ -2,6 +2,8 @@
 
 [**View Usage Guide**](#usage-guide) *(small text)*
 
+### Downloading: Download and extract the Extention
+
 So first go to releases and download the latest Zip File, then unzip it.
 
 ### Step 1: Activate Developer Mode
